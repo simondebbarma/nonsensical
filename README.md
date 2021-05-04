@@ -1,24 +1,50 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Nonsensical
+> Just another blog.
 
-Things you may want to cover:
+![](https://media.giphy.com/media/l2ZE2FbssxGcEpLkQ/giphy.gif)
 
-* Ruby version
+Additional description about the project and its features.
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
+- Node.js
 
-* Database creation
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+### Prerequisites
 
-* Services (job queues, cache servers, search engines, etc.)
+### Setup
 
-* Deployment instructions
+### Install
 
-* ...
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
+
+👤 **Author1**
+
+- GitHub: [@0ww](https://github.com/0ww)
+- Twitter: [@SimonLikelySaid](https://twitter.com/SimonLikelySaid)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
